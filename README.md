@@ -14,7 +14,7 @@
 1. Загрузить/Склонировать репозиторий
 
         git clone https://github.com/Alex5067/2048
-2. `cd` в директорию src и выполнить `javac Main.java`
+2. `cd` в директорию src и выполнить `javac Main.java` или просто запустить "My_2048.jar" из root директории
 
         cd 2048/src
         javac Main.java
