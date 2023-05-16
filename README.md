@@ -1,6 +1,6 @@
 # 2048
 
-Цель проекта сделать что-то похожее на игру 2048.
+Цель проекта написать игру 2048.
 
 <img align="center" src="screen.png" alt="Screenshot of the game" />
 
